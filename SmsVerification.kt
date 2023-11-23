@@ -6,5 +6,9 @@ fun main() {
     val lisce = listOf()
     val dccewrbetrny = listOf()
     val njkcn0 = listOf()
-    val nkwnfkjn = listOf()
+
+    for (i in list.indicies) {
+        print(i)
+    }
+
 }
