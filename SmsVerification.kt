@@ -1,5 +1,6 @@
 fun main() {
     val list = listOf()
+<<<<<<< HEAD
     val cdwdc = listOf()
     val cwcww = listOf()
     val  cefceve = listOf()
@@ -9,6 +10,13 @@ fun main() {
 
     for (i in list.indicies) {
         print(i)
+=======
+
+    if (list.IsEmpty) print(true)
+
+    list.forEach {
+        it++
+>>>>>>> master
     }
 
 }
